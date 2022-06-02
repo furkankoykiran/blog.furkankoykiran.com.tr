@@ -43,8 +43,8 @@ flush() {
 }
 
 deploy() {
-  git config --global user.name "Mümin Köykıran"
-  git config --global user.email "muminkoykiran@gmail.com"
+  git config --global user.name "Furkan Köykıran"
+  git config --global user.email "furkankoykiran@gmail.com"
 
   git update-ref -d HEAD
   git add -A
