@@ -1,5 +1,5 @@
 ---
-title: "HNT Coin Nedir?"
+title: "HNT Coin"
 date: "2021-12-19"
 categories: 
   - "crypto"
